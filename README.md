@@ -8,7 +8,7 @@ Final Year Project | React + Flask | Swin Transformer + GradCAM++
 
 ```
 osteoporosis_fyp/
-├── backend/     ← Flask API + ML Model
+├── backend/     ← Flask API + DL Model
 └── frontend/    ← React Web App
 ```
 
