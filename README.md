@@ -106,6 +106,10 @@ Place your trained model at: `backend/model/swin_transformer.pth`
 - Osteoporosis : 8 questions, threshold ≥ 10/18
 
 ---
+<img width="1913" height="918" alt="image" src="https://github.com/user-attachments/assets/0e9ce495-25ca-48be-8236-75d4bff5c94a" />
+<img width="1877" height="905" alt="image" src="https://github.com/user-attachments/assets/820562ff-b23a-4b83-8c06-abac889f2fa2" />
+<img width="1577" height="820" alt="image" src="https://github.com/user-attachments/assets/b9fd813d-0017-4d03-8e77-b8b3300ae0c9" />
+
 
 ## ⚠️ Disclaimer
 
